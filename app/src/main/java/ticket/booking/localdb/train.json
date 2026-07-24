@@ -1,0 +1,86 @@
+[
+  {
+    "trainId": "TR101",
+    "trainNo": "12951",
+    "stations": [
+      "Bangalore",
+      "Bhopal",
+      "Agra",
+      "Delhi"
+    ],
+    "stationTimes": {
+      "Bangalore": "06:00",
+      "Bhopal": "18:30",
+      "Agra": "05:15",
+      "Delhi": "08:00"
+    },
+    "seats": [
+      [0, 0, 0, 0],
+      [0, 0, 0, 0],
+      [0, 0, 0, 0]
+    ]
+  },
+  {
+    "trainId": "TR102",
+    "trainNo": "12345",
+    "stations": [
+      "Lucknow",
+      "Kanpur",
+      "Prayagraj",
+      "Varanasi"
+    ],
+    "stationTimes": {
+      "Lucknow": "07:00",
+      "Kanpur": "08:15",
+      "Prayagraj": "11:30",
+      "Varanasi": "14:00"
+    },
+    "seats": [
+      [0, 0, 0, 0],
+      [0, 0, 0, 0],
+      [0, 0, 0, 0]
+    ]
+  },
+  {
+    "trainId": "TR103",
+    "trainNo": "22436",
+    "stations": [
+      "Mumbai",
+      "Surat",
+      "Vadodara",
+      "Ahmedabad"
+    ],
+    "stationTimes": {
+      "Mumbai": "05:30",
+      "Surat": "07:45",
+      "Vadodara": "09:20",
+      "Ahmedabad": "10:50"
+    },
+    "seats": [
+      [0, 0, 0, 0],
+      [0, 0, 0, 0],
+      [0, 0, 0, 0]
+    ]
+  },
+  {
+    "trainId": "TR104",
+    "trainNo": "18477",
+    "stations": [
+      "Kolkata",
+      "Bhubaneswar",
+      "Visakhapatnam",
+      "Chennai"
+    ],
+    "stationTimes": {
+      "Kolkata": "06:15",
+      "Bhubaneswar": "09:30",
+      "Visakhapatnam": "14:00",
+      "Chennai": "22:30"
+    },
+    "seats": [
+      [0, 0, 0, 0],
+      [0, 0, 0, 0],
+      [0, 0, 0, 0]
+    ]
+  }
+]
